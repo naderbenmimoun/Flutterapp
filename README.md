@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-# bitakati_app
+🚀 Bitakati App is my first Flutter application.
+It’s a digital business card that displays my name, photo, job title, phone number, and email.
 
-A new Flutter project.
+📸 Screenshot
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Circular profile picture 🖼️
 
-A few resources to get you started if this is your first Flutter project:
+Name and job title with custom styling 🎨
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Phone number and email with icons 📞 ✉️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutterapp
->>>>>>> 25698495e41ae942b7fdf1b7959da5e62e2bd04e
+Simple and responsive UI 📱💻
+
+🛠️ Built With
+
+Flutter
+
+Dart
+
+🎯 Goal
+
+To learn the basics of Flutter (Widgets, Material Design, layout).
